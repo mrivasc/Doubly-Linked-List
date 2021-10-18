@@ -204,6 +204,7 @@ void menu(){
 
         case 9: cont = false;
 		}
+        
 	} while (cont);
 }
 
